@@ -1,4 +1,4 @@
-db_name = "se_proj"
+db_name = "se_test"
 user = "se4g"
 password = "user"
 host = "localhost"

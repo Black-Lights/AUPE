@@ -1,0 +1,7 @@
+#ignore Anaconda environment directories
+.env/
+
+#Ignore Jupyter Notebook Files
+
+.ipynb_checkpoints
+.virtual_documents

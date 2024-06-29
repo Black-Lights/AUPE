@@ -8,3 +8,6 @@
 
 #Ignore Config.py
 config.py
+
+#Ignore the pycharm files
+__pycache__

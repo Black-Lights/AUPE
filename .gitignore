@@ -5,3 +5,6 @@
 
 .ipynb_checkpoints
 .virtual_documents
+
+#Ignore Config.py
+config.py

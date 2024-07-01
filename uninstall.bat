@@ -26,8 +26,8 @@ echo Deleting specified files...
 del "Webserver-Merged.py" >nul 2>&1
 del "Dashboard-Merged.py" >nul 2>&1
 
-:: Delete the `requirements.txt` file if it exists
-del "requirements.txt" >nul 2>&1
+@REM :: Delete the `requirements.txt` file if it exists
+@REM del "requirements.txt" >nul 2>&1
 
 @REM :: Optional: Clean up the generated Python scripts
 @REM echo Deleting any generated Python scripts...

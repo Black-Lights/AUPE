@@ -11,7 +11,7 @@ if exist "aupe_env\Scripts\activate.bat" (
 
     :: Uninstall all packages in the virtual environment
     echo Uninstalling all dependencies...
-    call aupe_env\Scripts\pip.exe freeze > requirements.txt
+
     call aupe_env\Scripts\pip.exe uninstall -r requirements.txt -y
 
     :: Remove the virtual environment

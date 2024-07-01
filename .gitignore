@@ -8,9 +8,6 @@ aupe_env
 .ipynb_checkpoints
 .virtual_documents
 
-#Ignore Config.py
-config.py
-
 #Ignore the pycharm files
 __pycache__
 

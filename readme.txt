@@ -1,6 +1,8 @@
 # AUPE RiskMonitor
 
-## Version: 1.0.0
+![AUPE RiskMonitor Logo](path/to/logo.png)
+
+**Version:** 1.0.0  
 **Release Date:** July 1, 2024
 
 ---
@@ -14,19 +16,19 @@ The AUPE RiskMonitor 1.0.0 is the inaugural release of this application, designe
 
 ### Dynamic Data Visualization
 - **Bar and Pie Charts:**
-  - The application includes dynamic bar and pie charts for visualizing landslide risk data. Users can select risk types and levels to compare data across different regions.
+  - Dynamic bar and pie charts for visualizing landslide risk data. Users can select risk types and levels to compare data across different regions.
 - **Landslide Risk Data at Different Levels:**
   - Visualize landslide risk data categorized by various risk levels such as low, medium, and high.
 - **Geographic Visualization of Risks at Provincial Levels:**
   - Provides a clear comparison of landslide risks across different provinces.
 - **Interactive Choropleth Map:**
-  - Features an interactive map using Folium to display geographical data of landslide risks, allowing users to explore risk areas visually.
+  - Interactive map using Folium to display geographical data of landslide risks, allowing users to explore risk areas visually.
 
 ### Key Capabilities
 - **Efficient Data Fetching:**
   - Optimized data fetching from the Flask API to enhance performance and reduce loading times, ensuring a smoother user experience.
 - **User-Friendly Interface:**
-  - Designed with an intuitive user interface, including tab navigation and dropdown filters for easy data selection and comparison.
+  - Intuitive user interface, including tab navigation and dropdown filters for easy data selection and comparison.
   - Responsive layout for compatibility across different screen sizes and devices.
 
 ---
@@ -36,12 +38,11 @@ The AUPE RiskMonitor 1.0.0 is the inaugural release of this application, designe
 ### Prerequisites
 - Windows (10 and above)
 - Internet connection
-- Ensure that Python 3.8 or later is installed on your system.
+- Python 3.8 or later
 
 ### Installation Steps
 1. **Download the Software:**
-   - Obtain the software package from the provided download link.
-     - [Download link for AUPE RiskMonitor](path/to/download)
+   - Obtain the software package from the provided [download link](path/to/download).
    - Download the ZIP file and extract it.
 2. **Run the Installer:**
    - Navigate to the software directory.
@@ -80,6 +81,7 @@ The AUPE RiskMonitor 1.0.0 is the inaugural release of this application, designe
   password = "se4guser"
   host = "http://database-test1.cnuw2qoiq9mr.eu-north-1.rds.amazonaws.com"
   port = 5432
+
 
 ## Support
 - For technical support or questions related to this release, please contact our support team at teamaupe@gmail.com.

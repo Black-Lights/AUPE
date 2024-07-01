@@ -1,5 +1,7 @@
 #ignore Anaconda environment directories
 .env/
+#ignore environment directories
+aupe_env
 
 #Ignore Jupyter Notebook Files
 
@@ -11,3 +13,6 @@ config.py
 
 #Ignore the pycharm files
 __pycache__
+
+#ignore Jetbrains directories
+.idea

@@ -42,7 +42,7 @@ The AUPE RiskMonitor 1.0.0 is the inaugural release of this application, designe
 
 ### Installation Steps
 1. **Download the Software:**
-   - Obtain the software package from the provided [download link](path/to/download).
+   - Obtain the software package from the provided [download link](https://github.com/Black-Lights/AUPE.git).
    - Download the ZIP file and extract it.
 2. **Run the Installer:**
    - Navigate to the software directory.

@@ -34,19 +34,22 @@ header h1 {
     padding-right: 20px;
 }
 .welcome-text ul {
-    color: #666;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
     text-align: justify;
+    color: #666;
+    line-height: 1.6;
 }
 
 .welcome-text h2 {
     color: #333;
 }
 .welcome-text p {
+    font-family: Arial, sans-serif;
     font-size: 18px;
     text-align: justify;
     color: #666;
     line-height: 1.6;
-    font-family: "Times New Roman";
 }
 .welcome-images {
     flex: 1;

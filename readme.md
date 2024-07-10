@@ -1,6 +1,6 @@
 # AUPE RiskMonitor
 
-![AUPE RiskMonitor Logo](path/to/logo.png)
+![AUPE RiskMonitor Logo](assets/logo2.jpg)
 
 **Version:** 1.0.0  
 **Release Date:** July 1, 2024

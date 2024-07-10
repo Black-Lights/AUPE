@@ -17,6 +17,6 @@ python -m pip install --upgrade pip
 :: Install required packages
 python -m pip install -r requirements.txt
 
-echo Environment setup complete. To start the web app, run start_app.bat
+echo Environment setup complete. To start the web app, run AUPE_RiskMointor.bat
 pause
 

@@ -1,13 +1,20 @@
 #ignore Anaconda environment directories
 .env/
+#ignore environment directories
+aupe_env
 
 #Ignore Jupyter Notebook Files
 
 .ipynb_checkpoints
 .virtual_documents
 
-#Ignore Config.py
-config.py
-
 #Ignore the pycharm files
 __pycache__
+
+#ignore Jetbrains directories
+.idea
+
+#Files
+Dashboard-Merged.py
+Webserver-Merged.py
+python_install.bat
